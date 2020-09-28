@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bfcc707-8106-4cf7-b99c-e43533124b57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main-folder/helloPackage/PrintHello.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-folder/helloPackage/StartHelloServer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-folder/helloPackage/StopHelloServer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-folder/helloPackage/StopServer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-folder/helloPackage/http-helper.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-folder/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../go_lang_testing/12. Rabbit_MQ" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -90,5 +85,11 @@
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="216" key="FileChooserDialogImpl" timestamp="1599199263714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599199263714" />
   </component>
 </project>
